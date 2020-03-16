@@ -1,12 +1,12 @@
 {
-  "routes": [
-    {
-      "path": "/destinations/northwind",
-      "target": {
-        "type": "destination",
-        "name": "northwind"
-      },
-      "description": "Northwind OData Service"
-    }
-  ]
+	"routes": [
+		{
+			"path": "/destinations/northwind",
+			"target": {
+				"type": "destination",
+				"name": "northwind"
+			},
+			"description": "Northwind OData Service"
+		}
+	]
 }
